@@ -1,6 +1,6 @@
 # bot
 
-A new Flutter project.
+This is a Flutter Project concerned with integrating dialogueFlow into Flutter.
 
 ## Getting Started
 
