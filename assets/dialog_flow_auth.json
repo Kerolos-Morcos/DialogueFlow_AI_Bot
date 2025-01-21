@@ -1,0 +1,20 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-test-g9ga",
+  "private_key_id": "f7ab095ee737fdef77813a7f33dd4b488e4d1be8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAwqe/dgdlCoB6\nt00ivmg6z/gydDbgWU2+TYiRngvvgCtYd/asSGdqMMYe/1hy5OI1wyMwnDTtQbsU\n/1yckSEySI40wOEBe+Yr6NAPy1/z2YPpBkqpmRBK6nXzd591QsuuBLd9x34U7jNN\nF+lBq6zKjxHHT6+t3s2TlJxxDECmRkS4lG8w4g3zDpqVYMUWqgNkBKwSoyxqAL0h\nMwlCKcQNrtYSuBVWcCJ/904GZmqlvDTmgSVRBMvdswhhQHNx0aXKJiTKh6h2OYpL\n34n8EuCXNyD28JTEYJmH213r3MSN6UvN4sxsBVTeIfsSL1wMMcm83eO0MIH2kyl9\nF3Aqo0wtAgMBAAECggEACZ3Ma5dSUB6hgT3CyeBw57o3WiEFGdUqtTs9/HHDi6u7\nvdqiQj8MdbZANAyuF3FGvcLh7wtj8pAsaqRAtQjifJU1DvmuX/oT5g3jz13oiAxK\nceYf9G0P7ITc5IwLtvhhm+ldVBePOTEW+xodx2puoN5ZVzWpAIYUgG/SDCu9z+2s\nRSBiFs4zHX5rY/8+2prdRCV5JFsJquldEAVGs922HI+4UHvL1QhyvU1asdbC6+2/\nkhYmm+vplhxBJnlA66rdt52SQcZ8DTIEQ7MdCoboAQcw6MBXaoXG+cBNXEcj+sam\nPlOZodQSVjBGzqbTI83yhTqESOHusIcPV/ITlEmyuwKBgQDwaJWOS6f/IcyrxRFj\ncpPMrE85223hpPGDMOYwsC84W4SEKywXWIdRJrZ8S1myUB+rVVxlmYVqRSUZjr1i\ntP15yyHm01UJxyr7tMrDEZ7KKrkM3LvfqVeW48EHpkZnesF8MUiGGXo9cYpNYsUD\nuTItG83h5ByThO0/AH8bv/i73wKBgQDNQvxlKuQDVNZHurBT6T9KuOdW5w374xW6\nKb7VHSmlASS7M4cc5PL5sUEh+PLmZhSIA4+SumSaKlxFSUK2Jr7YI49P1HP5azR/\nB+GM4oyhzUticgnJR0JdY0nRHgvK5XUrV2XvTFd6r//bLsxaY5dUqH+BIrS2sqgA\nQOXiJjX5cwKBgG7ezJojKgbvf4R4DdzfKmppzN/R4or9lqP6GS67EgvbqPGLN3pM\nyZsTT3VjCqrBaNmLNGFmu7CW0tVGjvDGp19T3v6k18L6p0gNyLTNm32A1naoFbzA\nTDS6NHtio3V1l2W/FMNDXKyZgD7QHivpbMqA2CIlIUinNQKpJ/WUQxHhAoGAbVm8\nYKEi6+tsZLY+bdWbFFHBXPim6IQn9Q98TMjGgNNFID3pQyltkDwwOMsJjFjhozxS\nZpbKNZ9PnNHUqnmlvjvjg2Hpjvzf8LTgIlAnH6Pg/0dFk2dVIa9difx5x9PKQhbD\nhWKkUAYnRjt+PsFDw6QomUFGCPbQraHlVj+JDaUCgYEAncatu9Zco1lhBbspa20w\nVK+nto5+Sc9pvnc0o68tlbEjki91Jruj3SpfgokxNVogrFE15B/ghoQZCVBzPpwi\nOoeQFf9X1Gf/2Vw0pKro+f7T4iz0c5R0PIkHCAeNneniSDWN3gMcXbv+9kHIZ4T1\nUv6fSydowr3J6/GN3wo0btQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aibot-816@chatbot-test-g9ga.iam.gserviceaccount.com",
+  "client_id": "110367659996561544139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aibot-816%40chatbot-test-g9ga.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "installed": {
+        "client_id": "872178224658-hfsi4n0j7v3m47umkb97hudotrfv69p1.apps.googleusercontent.com",
+        "project_id": "chatbot-test-g9ga",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs"
+    }
+}
